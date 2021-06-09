@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caderno",
+      "price": 10.89
+    },
+    {
+      "id": 3,
+      "name": "Borracha BIC",
+      "price": 5.89
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.55,
+      "id": 4
+    },
+    {
+      "name": " teste",
+      "price": "11",
+      "id": 5
+    }
+  ]
+}
